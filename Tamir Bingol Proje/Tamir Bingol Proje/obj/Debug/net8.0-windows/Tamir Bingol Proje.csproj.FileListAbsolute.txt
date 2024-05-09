@@ -1,0 +1,34 @@
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\bin\Debug\net8.0-windows\Tamir Bingol Proje.exe
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\bin\Debug\net8.0-windows\Tamir Bingol Proje.deps.json
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\bin\Debug\net8.0-windows\Tamir Bingol Proje.runtimeconfig.json
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\bin\Debug\net8.0-windows\Tamir Bingol Proje.dll
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\bin\Debug\net8.0-windows\Tamir Bingol Proje.pdb
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir_Bingol_Proje.Form1.resources
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir Bingol Proje.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir Bingol Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir Bingol Proje.AssemblyInfoInputs.cache
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir Bingol Proje.AssemblyInfo.cs
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir Bingol Proje.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir Bingol Proje.dll
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\refint\Tamir Bingol Proje.dll
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir Bingol Proje.pdb
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir Bingol Proje.genruntimeconfig.cache
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\ref\Tamir Bingol Proje.dll
+C:\Users\Hakan\Desktop\2024 GDSC\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir_Bingol_Proje.KalanİslerFormu.resources
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\bin\Debug\net8.0-windows\Tamir Bingol Proje.exe
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\bin\Debug\net8.0-windows\Tamir Bingol Proje.deps.json
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\bin\Debug\net8.0-windows\Tamir Bingol Proje.runtimeconfig.json
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\bin\Debug\net8.0-windows\Tamir Bingol Proje.dll
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\bin\Debug\net8.0-windows\Tamir Bingol Proje.pdb
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir_Bingol_Proje.Form1.resources
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir_Bingol_Proje.KalanİslerFormu.resources
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir Bingol Proje.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir Bingol Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir Bingol Proje.AssemblyInfoInputs.cache
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir Bingol Proje.AssemblyInfo.cs
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir Bingol Proje.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir Bingol Proje.dll
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\refint\Tamir Bingol Proje.dll
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir Bingol Proje.pdb
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\Tamir Bingol Proje.genruntimeconfig.cache
+C:\Users\Hakan\Desktop\Tamir Bingol Proje\Tamir Bingol Proje\Tamir Bingol Proje\obj\Debug\net8.0-windows\ref\Tamir Bingol Proje.dll
